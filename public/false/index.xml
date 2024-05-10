@@ -2,13 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>False on My New Hugo Site</title>
-    <link>http://localhost:61627/false/</link>
+    <link>http://localhost:49887/false/</link>
     <description>Recent content in False on My New Hugo Site</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
-    <copyright>Your Name</copyright>
-    <atom:link href="http://localhost:61627/false/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49887/false/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
