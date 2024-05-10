@@ -2,34 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59967/search/</loc>
+    <loc>http://localhost:61627/posts/my-first-post/</loc>
+    <lastmod>2024-05-10T10:16:18+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:61627/</loc>
+    <lastmod>2024-05-10T10:16:18+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:61627/posts/</loc>
+    <lastmod>2024-05-10T10:16:18+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:61627/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/search/_index.es/</loc>
+    <loc>http://localhost:61627/search/_index.es/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/search/_index.fr/</loc>
+    <loc>http://localhost:61627/search/_index.fr/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/search/_index.hi/</loc>
+    <loc>http://localhost:61627/search/_index.hi/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/search/_index.jp/</loc>
+    <loc>http://localhost:61627/search/_index.jp/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/search/_index.pl/</loc>
+    <loc>http://localhost:61627/search/_index.pl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/search/_index.ru/</loc>
+    <loc>http://localhost:61627/search/_index.ru/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/search/_index.zh-cn/</loc>
+    <loc>http://localhost:61627/search/_index.zh-cn/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:59967/categories/</loc>
+    <loc>http://localhost:61627/categories/</loc>
   </url><url>
-    <loc>http://localhost:59967/</loc>
+    <loc>http://localhost:61627/example-site-for-hugo-theme-tailwind/</loc>
   </url><url>
-    <loc>http://localhost:59967/tags/</loc>
+    <loc>http://localhost:61627/false/</loc>
+  </url><url>
+    <loc>http://localhost:61627/hugo-tailwind-tailwindcss-hugo-theme-hugo-theme-tailwind/</loc>
+  </url><url>
+    <loc>http://localhost:61627/series/</loc>
+  </url><url>
+    <loc>http://localhost:61627/tags/</loc>
+  </url><url>
+    <loc>http://localhost:61627/true/</loc>
   </url>
 </urlset>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://localhost:61627/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>False on My New Hugo Site</title>
+    <link>http://localhost:61627/false/</link>
+    <description>Recent content in False on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>Your Name</copyright>
-    <atom:link href="http://localhost:61627/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61627/false/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
