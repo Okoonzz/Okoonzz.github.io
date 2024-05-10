@@ -5,10 +5,8 @@ languageCode = "en"
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 enableInlineShortcodes = true
-# prevent build failures when using Hugo"s Instagram shortcode due to deprecated Instagram API.
-# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableEmoji = true
 enableGitInfo = true
 
@@ -47,3 +45,22 @@ enableGitInfo = true
   [module.hugoVersion]
     extended = false
     min = "0.120.0"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
